@@ -1,5 +1,5 @@
 # PROG7311-ICE-TASK-1
-This is my online CV hosted on azure
+This is my online CV hosted on azure. https://cvwebsitehb-d8btf9d0hka9gnf0.canadacentral-01.azurewebsites.net/
 # My Projects
 
 | Project |
