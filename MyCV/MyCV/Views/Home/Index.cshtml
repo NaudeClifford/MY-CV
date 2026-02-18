@@ -28,6 +28,7 @@
             display: block;
             box-shadow: 0 4px 20px rgba(0,0,0,0.1);
             border: 2px solid;
+            width: 95%;
         }
 
         .sidebar {
@@ -107,13 +108,45 @@
                 padding: 0;
         }
 
-        @@media(max-width: 100%) {
+        @@media (max-width: 768px) {
             .container {
-                grid-template-columns: 1fr;
+                display: block; 
             }
+
             .sidebar {
                 text-align: center;
+                padding: 15px;
             }
+
+                .sidebar ul {
+                    text-align: center;
+                }
+
+            .main {
+                padding: 15px;
+            }
+
+                .main h1 {
+                    font-size: 24px;
+                }
+
+                .main h2 {
+                    font-size: 18px;
+                }
+        }
+
+        @@media (max-width: 480px) {
+            .sidebar, .main {
+                padding: 10px;
+            }
+
+                .main h1 {
+                    font-size: 20px;
+                }
+
+                .main h2 {
+                    font-size: 16px;
+                }
         }
     </style>
 </head>
@@ -126,65 +159,68 @@
             <h1>Clifford Naude</h1>
             <p>
                 <strong>Professional Summary:</strong>
-                Motivated web developer with experience building responsive and user-friendly websites and applications.
+                Motivated web/app developer with study-experience building responsive and user-friendly websites and applications.
             </p>
 
             <div class="section">
                 <h2>Work Experience</h2>
 
                 <div class="job">
-                    <h3>Front-End Developer - Company Name</h3>
+                    <h3>Contractor - Red Venture Equipment</h3>
                     <div class="date">Jan 2022 – Present</div>
                     <ul>
-                        <li>Developed responsive websites using HTML, CSS, and JavaScript.</li>
-                        <li>Collaborated with designers to improve UX.</li>
-                        <li>Optimized web applications for performance.</li>
+                        <li>Helped build fans.</li>
+                        <li>Helped managing their warehouse.</li>
+                        <li>Helped with installation of equipment on site.</li>
+                        <li>Did deliveries and pickups.</li>
+                        <li>Had Installed cameras around and in their office.</li>
                     </ul>
                 </div>
 
                 <div class="job">
-                    <h3>Junior Developer - Company Name</h3>
-                    <div class="date">Jun 2020 – Dec 2021</div>
+                    <h3>Contractor - Red Mountain</h3>
+                    <div class="date">Jan 2022 – Present</div>
                     <ul>
-                        <li>Assisted in developing web applications.</li>
-                        <li>Maintained existing codebase and fixed bugs.</li>
+                        <li>installed cameras on site and some networking with routers.</li>
+                        <li>Helped with manual labour on site.</li>
+                        <li>Helped with deliverys.</li>
                     </ul>
                 </div>
+
             </div>
 
             <div class="section">
                 <h2>Education</h2>
 
                 <div class="education-item">
-                    <h3>Bachelor of Computer Science</h3>
-                    <div class="date">2016 – 2020</div>
-                    <p>University Name</p>
+                    <h3>Bachelor of Computer Science in Application Development</h3>
+                    <div class="date">2022-2026</div>
+                    <p>Emeris Ruimsig</p>
                 </div>
             </div>
 
             <div class="section">
                 <h2>Projects</h2>
                 <ul>
-                    <li>Portfolio Website – Designed and developed personal website.</li>
-                    <li>E-commerce App – Built full-stack online store.</li>
+                    <li>Portfolio Website – Designed and developed website for college assignments.</li>
+                    <li>App – Built full-stack.</li>
                 </ul>
             </div>
         </div>
 
 
         <div class="sidebar">
-            <h2>Your Name</h2>
-            <p>Web Developer</p>
 
             <h3>Contact</h3>
-            <p>Email: your@email.com</p>
+            <p>Email: clifford@email.com</p>
             <p>Phone: +123 456 7890</p>
-            <p>Location: City, Country</p>
+            <p>Location: Ruimsig, South Africa</p>
 
             <h3>Skills</h3>
             <ul>
                 <li>HTML & CSS</li>
                 <li>JavaScript</li>
+                <li>Java</li>
                 <li>React</li>
                 <li>Node.js</li>
                 <li>UI/UX Design</li>
@@ -193,8 +229,19 @@
             <h3>Languages</h3>
             <ul>
                 <li>English</li>
-                <li>Spanish</li>
+                <li>Afrikaans</li>
             </ul>
+
+            <div class="section">
+                <h2>Projects</h2>
+                <ul>
+                    <li>
+                        <a href="https://github.com/NaudeClifford/PROG7311-ICE-TASK-1/tree/main" target="_blank">
+                            Portfolio Website
+                        </a> – Website built with HTML, CSS, and JavaScript
+                    </li>
+                </ul>
+            </div>
         </div>
     </div>
 
