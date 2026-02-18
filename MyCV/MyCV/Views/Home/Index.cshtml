@@ -1,8 +1,202 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
-}
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Clifford Naude - CV</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, Helvetica, sans-serif;
+            text-align: center;
+        }
+
+        body {
+            background-color: white;
+            color: #333;
+            line-height: 1.6;
+            text-align: center;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 40px auto;
+            background-color: white;
+            display: block;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+            border: 2px solid;
+        }
+
+        .sidebar {
+            background: #2c3e50;
+            color: #fff;
+            padding: 30px;
+            border: 2px solid;
+        }
+
+        .sidebar h2 {
+            margin-bottom: 10px;
+        }
+
+        .sidebar p {
+            font-size: 14px;
+            margin-bottom: 15px;
+        }
+
+        .sidebar h3 {
+            margin: 20px 0 10px;
+            border-bottom: 1px solid #fff;
+            padding-bottom: 5px;
+            font-size: 16px;
+        }
+
+        .sidebar ul {
+                    list-style-position: inside;
+                    text-align: center;
+                    padding: 0;
+            }
+
+        .sidebar ul li {
+            margin-bottom: 8px;
+            font-size: 14px;
+        }
+
+        .main {
+            padding: 30px;
+        }
+
+        .main h1 {
+            font-size: 28px;
+            margin-bottom: 5px;
+        }
+
+        .main h2 {
+            font-size: 18px;
+            margin: 20px 0 10px;
+            color: #2c3e50;
+            border-bottom: 2px solid #2c3e50;
+            display: inline-block;
+            padding-bottom: 5px;
+        }
+
+        .section {
+            margin-bottom: 20px;
+        }
+
+        .job, .education-item {
+            margin-bottom: 15px;
+        }
+
+        .job h3, .education-item h3 {
+            font-size: 16px;
+            margin-bottom: 3px;
+        }
+
+        .date {
+            font-size: 13px;
+            color: #777;
+            margin-bottom: 5px;
+        }
+
+        ul {
+                list-style-position: inside;
+                text-align: center;
+                padding: 0;
+        }
+
+        @@media(max-width: 100%) {
+            .container {
+                grid-template-columns: 1fr;
+            }
+            .sidebar {
+                text-align: center;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+
+        <div class="main">
+            <h1>Clifford Naude</h1>
+            <p>
+                <strong>Professional Summary:</strong>
+                Motivated web developer with experience building responsive and user-friendly websites and applications.
+            </p>
+
+            <div class="section">
+                <h2>Work Experience</h2>
+
+                <div class="job">
+                    <h3>Front-End Developer - Company Name</h3>
+                    <div class="date">Jan 2022 – Present</div>
+                    <ul>
+                        <li>Developed responsive websites using HTML, CSS, and JavaScript.</li>
+                        <li>Collaborated with designers to improve UX.</li>
+                        <li>Optimized web applications for performance.</li>
+                    </ul>
+                </div>
+
+                <div class="job">
+                    <h3>Junior Developer - Company Name</h3>
+                    <div class="date">Jun 2020 – Dec 2021</div>
+                    <ul>
+                        <li>Assisted in developing web applications.</li>
+                        <li>Maintained existing codebase and fixed bugs.</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="section">
+                <h2>Education</h2>
+
+                <div class="education-item">
+                    <h3>Bachelor of Computer Science</h3>
+                    <div class="date">2016 – 2020</div>
+                    <p>University Name</p>
+                </div>
+            </div>
+
+            <div class="section">
+                <h2>Projects</h2>
+                <ul>
+                    <li>Portfolio Website – Designed and developed personal website.</li>
+                    <li>E-commerce App – Built full-stack online store.</li>
+                </ul>
+            </div>
+        </div>
+
+
+        <div class="sidebar">
+            <h2>Your Name</h2>
+            <p>Web Developer</p>
+
+            <h3>Contact</h3>
+            <p>Email: your@email.com</p>
+            <p>Phone: +123 456 7890</p>
+            <p>Location: City, Country</p>
+
+            <h3>Skills</h3>
+            <ul>
+                <li>HTML & CSS</li>
+                <li>JavaScript</li>
+                <li>React</li>
+                <li>Node.js</li>
+                <li>UI/UX Design</li>
+            </ul>
+
+            <h3>Languages</h3>
+            <ul>
+                <li>English</li>
+                <li>Spanish</li>
+            </ul>
+        </div>
+    </div>
+
+</body>
+</html>

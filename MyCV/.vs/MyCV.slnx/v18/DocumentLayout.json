@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Documents\\GitHub\\PROG7311-ICE-TASK-1\\MyCV\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8602B1-3D58-1055-C739-4BEA9861F02E}|MyCV\\MyCV.csproj|c:\\users\\lab_services_student\\documents\\github\\prog7311-ice-task-1\\mycv\\mycv\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F8602B1-3D58-1055-C739-4BEA9861F02E}|MyCV\\MyCV.csproj|solutionrelative:mycv\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8602B1-3D58-1055-C739-4BEA9861F02E}|MyCV\\MyCV.csproj|c:\\users\\lab_services_student\\documents\\github\\prog7311-ice-task-1\\mycv\\mycv\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3F8602B1-3D58-1055-C739-4BEA9861F02E}|MyCV\\MyCV.csproj|solutionrelative:mycv\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\PROG7311-ICE-TASK-1\\MyCV\\MyCV\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyCV\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\PROG7311-ICE-TASK-1\\MyCV\\MyCV\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyCV\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T12:16:06.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\PROG7311-ICE-TASK-1\\MyCV\\MyCV\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyCV\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\PROG7311-ICE-TASK-1\\MyCV\\MyCV\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MyCV\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T11:40:27.01Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
