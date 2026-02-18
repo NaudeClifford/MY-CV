@@ -16,3 +16,5 @@ This is my online CV hosted on azure. https://cvwebsitehb-d8btf9d0hka9gnf0.canad
 | [WEDPOE](https://github.com/NaudeClifford/WED-POE-PART-3-ST10258513)
 | [PROG5121POE](https://github.com/IIEMSA/prog5121-poe-part-3-Clifford35)
 
+References:
+Chatbot (2026)
