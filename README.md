@@ -10,7 +10,7 @@ This is my online CV hosted on azure. https://cvwebsitehb-d8btf9d0hka9gnf0.canad
 | Project |
 |--------- |
 [PROG7311POE] 
-
+https://github.com/NaudeClifford/PROG7311POE.git
 | [PROG6212POE](https://github.com/NaudeClifford/PROG6212POE)
 | [CLDV6212POE](https://github.com/NaudeClifford/CLDV6212POE)
 | [PROG6212Practice](https://github.com/NaudeClifford/PROG6212Practice)
