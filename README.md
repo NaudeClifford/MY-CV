@@ -1,9 +1,16 @@
-# PROG7311-ICE-TASK-1
+# My CV
+CONTACT INFORMATION
+Clifford Naude
+0671306055
+cliffordnaude990@gmail.com
+
 This is my online CV hosted on azure. https://cvwebsitehb-d8btf9d0hka9gnf0.canadacentral-01.azurewebsites.net/
 # My Projects
 
 | Project |
 |--------- |
+[PROG7311POE] 
+
 | [PROG6212POE](https://github.com/NaudeClifford/PROG6212POE)
 | [CLDV6212POE](https://github.com/NaudeClifford/CLDV6212POE)
 | [PROG6212Practice](https://github.com/NaudeClifford/PROG6212Practice)
