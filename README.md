@@ -1,16 +1,12 @@
 # My CV
-CONTACT INFORMATION
-Clifford Naude
-0671306055
-cliffordnaude990@gmail.com
 
 This is my online CV hosted on azure. https://cvwebsitehb-d8btf9d0hka9gnf0.canadacentral-01.azurewebsites.net/
+
 # My Projects
 
 | Project |
 |--------- |
-[PROG7311POE] 
-https://github.com/NaudeClifford/PROG7311POE.git
+| [PROG7311POE](https://github.com/NaudeClifford/PROG7311POE.git)
 | [PROG6212POE](https://github.com/NaudeClifford/PROG6212POE)
 | [CLDV6212POE](https://github.com/NaudeClifford/CLDV6212POE)
 | [PROG6212Practice](https://github.com/NaudeClifford/PROG6212Practice)
@@ -22,6 +18,5 @@ https://github.com/NaudeClifford/PROG7311POE.git
 | [PROG5121POE](https://github.com/NaudeClifford/PROG5121-POE)
 | [WEDPOE](https://github.com/NaudeClifford/WED-POE-PART-3-ST10258513)
 | [PROG5121POE](https://github.com/IIEMSA/prog5121-poe-part-3-Clifford35)
+| [PROG7313POE](https://github.com/EMGPRS/poe-part-2-second-link-st10437348.git)
 
-References:
-Chatbot (2026)
