@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3F8602B1-3D58-1055-C739-4BEA9861F02E}|MyCV\\MyCV.csproj|c:\\users\\lab_services_student\\documents\\github\\my-cv\\mycv\\mycv\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3F8602B1-3D58-1055-C739-4BEA9861F02E}|MyCV\\MyCV.csproj|solutionrelative:mycv\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F8602B1-3D58-1055-C739-4BEA9861F02E}|MyCV\\MyCV.csproj|c:\\users\\lab_services_student\\documents\\github\\my-cv\\mycv\\mycv\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3F8602B1-3D58-1055-C739-4BEA9861F02E}|MyCV\\MyCV.csproj|solutionrelative:mycv\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,16 +17,8 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\GitHub\\MY-CV\\MyCV\\MyCV\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MyCV\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\MY-CV\\MyCV\\MyCV\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MyCV\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-18T12:16:06.103Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
@@ -40,7 +28,7 @@
               "RelativeDocumentMoniker": "MyCV\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\lab_services_student\\Documents\\GitHub\\MY-CV\\MyCV\\MyCV\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "MyCV\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAJYAAAAAAAAAAAAUwKQAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAMAAAAAANzMzMzMkwMMAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-18T11:40:27.01Z",
               "EditorCaption": ""
